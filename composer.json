@@ -23,7 +23,6 @@
 
     ],
     "require": {
-    "require": {
         "ext-mbstring": "*",
         "ext-gd": "*",
         "google/apiclient": "^1.1",
