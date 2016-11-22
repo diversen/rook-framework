@@ -11,9 +11,7 @@
             "email": "dennis.iversen@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.3.0"
-    },
+
     "repositories": [
 
         {
@@ -23,6 +21,7 @@
 
     ],
     "require": {
+        "php": ">=5.3.0",
         "ext-mbstring": "*",
         "ext-gd": "*",
         "google/apiclient": "^1.1",
@@ -53,6 +52,7 @@
         "diversen/mirror-path": "^1.0",
         "gabordemooij/redbean": "^4.3",
         "diversen/php-prg-pattern": "^1.0",
-        "diversen/simple-php-classes": "^1.4"
+        "diversen/simple-php-classes": "^1.4",
+        "diversen/gravatar": "^1.0"
     }
 }
