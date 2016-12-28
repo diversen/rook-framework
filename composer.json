@@ -46,7 +46,6 @@
         "diversen/image-auto-rotate": "^1.0",
         "facebook/graph-sdk": "^5.2",
         "paragonie/random_compat": "^2.0",
-        "diversen/php-markdown-docs": "^1.0",
         "diversen/queue-simplex": "^1.0",
         "diversen/get-meta-tags": "^1.0",
         "diversen/mirror-path": "^1.0",
